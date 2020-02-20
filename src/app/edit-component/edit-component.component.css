@@ -1,0 +1,45 @@
+
+
+.container {
+  
+  display: flex;
+  width: 400px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 15px;
+ 
+  
+  
+}
+
+form {
+display: flex;
+  flex-direction: column;
+  box-shadow: 0px 0px 10px 0px rgba(204, 204, 204, 1);
+justify-content: center;
+  width: 100%;
+}
+
+label{
+    color:#1ECEFD ;
+}
+
+input {
+  padding: 14px;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+
+button{
+    background-color: #505355;
+    color: white;
+    padding: 10px;
+}
+
+textarea{
+    padding: 14px;
+    border-radius: 20px;
+    border: 2px solid black;
+
+}
